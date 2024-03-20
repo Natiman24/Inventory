@@ -1,2 +1,2 @@
-# Inventory-
+# Inventory
 User Management
